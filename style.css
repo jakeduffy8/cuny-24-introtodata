@@ -5,5 +5,24 @@ h1 {
   color:white; background:darkred;
 }
 body {
-  background-color: navajowhite;
+  background-color: darkred;
+}
+p {
+  font-style: "Bokor", serif;
+  background-color: darkred;
+  font-family: monospace;
+  color:white;
+}
+h2 { color: white;
+  font-family: "Bokor, serif;";
+
+}
+h3 { 
+  color: white; 
+}
+h4 {
+  color: white;
+}
+iframe title {
+  color: white;
 }
